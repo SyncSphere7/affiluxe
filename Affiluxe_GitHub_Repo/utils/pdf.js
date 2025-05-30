@@ -1,0 +1,1 @@
+// Auto PDF generator for receipts and invoices
